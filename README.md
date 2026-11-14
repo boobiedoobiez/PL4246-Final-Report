@@ -1,12 +1,11 @@
 
 # PL4246-Final-Report
 
-This project removes top-ranked connector hubs from a functional brain network, one at a time, and measures how each removal changes the network's modularity and average shortest path length.
+This project removes top-ranked connector hubs from a functional brain network sequentially, and measures how each removal changes the network's modularity and average shortest path length.
 
 **Files**
 
-BiswalNetworkLesioning.R	
-The full analysis script to simulate lesions.
+BiswalNetworkLesioning.R	The full analysis script to simulate lesions.
 
 AveragedMatrix.txt	Group-averaged functional connectivity matrix. 
 
