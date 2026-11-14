@@ -1,8 +1,6 @@
 
 # PL4246-Final-Report
 
-Hub Lesioning in the Functional Brain Network
-
 This project removes top-ranked connector hubs from a functional brain network, one at a time, and measures how each removal changes the network's modularity and average shortest path length.
 
 **Files**
