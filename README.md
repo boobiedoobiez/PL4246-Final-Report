@@ -10,9 +10,10 @@ The full analysis script to simulate lesions.
 
 AveragedMatrix.txt	Group-averaged functional connectivity matrix. 
 
-region_names_abbrev_file.txt	177 unique short region labels, one per line (for example LLOCsd2).
+region_names_abbrev_file.txt	177 unique short region labels, one per line.
 
-region_names_full_file.txt	177 full region names, one per line (for example Left Lateral Occipital Cortex superior division).
+region_names_full_file.txt	177 full region names, one per line.
+
 hub_lesion_results.csv	Output created by the script of lesion outcomes.
 
 **Requirements**
