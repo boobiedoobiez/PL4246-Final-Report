@@ -5,9 +5,13 @@ Hub Lesioning in the Functional Brain Network
 This project removes top-ranked connector hubs from a functional brain network, one at a time, and measures how each removal changes the network's modularity and average shortest path length.
 
 **Files**
-BiswalNetworkLesioning.R	The full analysis script to simulate lesions.
+BiswalNetworkLesioning.R	
+The full analysis script to simulate lesions.
+
 AveragedMatrix.txt	Group-averaged functional connectivity matrix. 
+
 region_names_abbrev_file.txt	177 unique short region labels, one per line (for example LLOCsd2).
+
 region_names_full_file.txt	177 full region names, one per line (for example Left Lateral Occipital Cortex superior division).
 hub_lesion_results.csv	Output created by the script of lesion outcomes.
 
